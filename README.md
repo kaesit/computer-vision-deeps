@@ -43,6 +43,16 @@ pyvista
 scikit-image
 glfw
 pygame
+polars 
+pyyaml 
+pillow 
+psutil 
+requests 
+scipy 
+ultralytics-thop
+onnx>=1.12.0,<= 1.19.1
+onnxslim>=0.1.71
+onnxruntime
 ```
 
 #### How to install packages:
