@@ -1,0 +1,14 @@
+uvicorn[standard]
+numpy
+pandas
+scikit-learn
+pytest
+opencv-python
+tensorflow
+kaggle
+tissue-detection
+PyOpenGL
+pyvista
+scikit-image
+glfw
+pygame

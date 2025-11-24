@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 
 
-img = cv2.imread("image.jpg")
+img = cv2.imread("img/image.jpg")
 dim = (600, 600)
 img = cv2.resize(img, dim, interpolation=cv2.INTER_AREA)
 cv2.namedWindow("Resized Image", cv2.WINDOW_NORMAL)
