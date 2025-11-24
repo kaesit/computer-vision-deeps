@@ -1,6 +1,6 @@
 # computer-vision-deeps
 
-![title](img/image.jpg)
+![title](img/image2.jpg)
 
 ## What it does?
 
